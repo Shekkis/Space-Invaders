@@ -28,6 +28,7 @@ Open Source: Community-driven and fully open for contributions and customization
 
 
 🛠️ Setup Guide
+
 Follow these steps to get the Space Invaders game up and running on your local machine:
 
 Clone the Project
