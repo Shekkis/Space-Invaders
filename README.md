@@ -24,25 +24,37 @@ Each wave gets progressively harder, so stay sharp and keep firing!
 Challenging Gameplay: Each wave grows harder, keeping players on their toes.
 Responsive Design: Optimized for various screen sizes – enjoy the game on both desktop and mobile browsers!
 Open Source: Community-driven and fully open for contributions and customizations.
-🚀 Getting Started
-Clone the Repository
 
-bash
-Copy code
-git clone [https://github.com/yourusername/space-invaders-webgame.git](https://github.com/Shekkis/Space-Invaders.git)
-Run the Game
-Open the index.html file in your web browser to start playing!
+
+
+🛠️ Setup Guide
+Follow these steps to get the Space Invaders game up and running on your local machine:
+
+Clone the Project
+Download the repository from GitHub to your computer by running this in the terminal:
+git clone https://github.com/yourusername/space-invaders-webgame.git
+
+Open in Visual Studio Code
+Launch Visual Studio Code and open the project folder.
+
+Install HTTP Server
+In the Visual Studio Code terminal, install the HTTP server globally:
+npm install -g http-server
+
+Run the Server
+Start the server by typing:
+npx http-server
+
+Open the Game
+After running the server, you’ll see an HTTP link in the terminal (e.g., http://127.0.0.1:8080). Click this link to launch the game in your web browser.
+
 
 
 
 🤝 Contributing
 
-This project is open-source and we welcome contributions! To contribute:
+This project is open-source.
 
-Fork the repository.
-Create a new branch for your feature or bugfix.
-Submit a pull request for review.
-All contributions are appreciated to make this game even better!
 
 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, and share!
