@@ -29,7 +29,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/space-invaders-webgame.git
+git clone [https://github.com/yourusername/space-invaders-webgame.git](https://github.com/Shekkis/Space-Invaders.git)
 Run the Game
 Open the index.html file in your web browser to start playing!
 
