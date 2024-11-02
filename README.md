@@ -7,6 +7,7 @@ Welcome to Space Invaders – a thrilling HTML web browser game where you'll fac
 🎮 Game Overview
 
 In Space Invaders, you control a spaceship tasked with defending against endless waves of alien invaders. Each new wave increases in difficulty with faster movement and more enemies, ensuring an exciting gameplay experience!
+![Screenshot 2024-11-02 011234](https://github.com/user-attachments/assets/07e7a032-48ca-42e8-b16a-ac581324f179)
 
 
 
@@ -16,6 +17,7 @@ Move: Use the arrow keys or A and D keys to move your spaceship horizontally.
 Shoot: Press the spacebar to fire lasers at the invaders.
 Advance: Destroy all invaders before they reach the bottom to progress to the next wave.
 Each wave gets progressively harder, so stay sharp and keep firing!
+ ![Screenshot 2024-11-02 011324](https://github.com/user-attachments/assets/b8e59f42-0119-40ce-b65f-db843f897984)
 
 
 
